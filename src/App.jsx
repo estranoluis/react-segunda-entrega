@@ -7,7 +7,7 @@ const App = () => {
   return (
     <>
       <Navbar />
-      <ItemListContainer />
+      <ItemListContainer greeting={"Bienvenido Cliente"}/>
     </>
   );
 }
