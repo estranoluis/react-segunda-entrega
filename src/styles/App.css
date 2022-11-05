@@ -1,0 +1,15 @@
+.card-juego {
+   width: 16rem;
+   height: 30rem;
+   padding: 0;
+   margin: 8px;
+}
+.card-juego .card-body {
+   position: absolute;
+   bottom: 0;
+}
+
+.game-details {
+   background-color: #FFFFFF;
+   padding: 2rem 1rem;
+}

@@ -1,0 +1,137 @@
+[
+   {
+      "id": 1,
+      "idCategoria": 1,
+      "titulo": "Grand Theft Auto V",
+      "categoria": "Accion",
+      "sistemas": "Windows",
+      "img": "./img/gta-v_front.jpg",
+      "precio": 24000
+   },
+   {
+      "id": 2,
+      "idCategoria": 2,
+      "titulo": "Counter-Strike: Global Offensive",
+      "categoria": "Shooter",
+      "sistemas": ["Windows", "MacOS"],
+      "img": "./img/cs-go_front.jpg",
+      "precio": 5000
+   },
+   {
+      "id": 3,
+      "idCategoria": 4,
+      "titulo": "Cyberpunk 2077",
+      "categoria": "Rol",
+      "sistemas": "Windows",
+      "img": "./img/cyberpunk-2077_front.jpg",
+      "precio": 22000
+   },
+   {
+      "id": 4,
+      "idCategoria": 3,
+      "titulo": "FIFA 23",
+      "categoria": "Deporte",
+      "sistemas": "Windows",
+      "img": "./img/fifa-23_front.jpg",
+      "precio": 55000
+   },
+   {
+      "id": 5,
+      "idCategoria": 2,
+      "titulo": "Call of Duty: Modern Warfare II",
+      "categoria": "Shooter",
+      "sistemas": "Windows",
+      "img": "./img/mwii_front.jpg",
+      "precio": 70000
+   },
+   {
+      "id": 6,
+      "idCategoria": 5,
+      "titulo": "Mortal Kombat 11",
+      "categoria": "Pelea",
+      "sistemas": "Windows",
+      "img": "./img/mk11_front.jpg",
+      "precio": 11000
+   },
+   {
+      "id": 7,
+      "idCategoria": 2,
+      "titulo": "Left 4 Dead 2",
+      "categoria": "Shooter",
+      "sistemas": ["Windows", "MacOS"],
+      "img": "./img/l4d2_front.jpg",
+      "precio": 1300
+   },
+   {
+      "id": 8,
+      "idCategoria": 2,
+      "titulo": "Tom Clancy's Rainbow Six Siege",
+      "categoria": "Shooter",
+      "sistemas": "Windows",
+      "img": "./img/r6-siege_front.jpg",
+      "precio": 15000
+   },
+   {
+      "id": 9,
+      "idCategoria": 4,
+      "titulo": "Elden Ring",
+      "categoria": "Rol",
+      "sistemas": "Windows",
+      "img": "./img/elden-ring_front.jpg",
+      "precio": 65000
+   },
+   {
+      "id": 10,
+      "idCategoria": 1,
+      "titulo": "Marvel's Spider-Man",
+      "categoria": "Accion",
+      "sistemas": "Windows",
+      "img": "./img/marvels-spider-man_front.jpg",
+      "precio": 50000
+   },
+   {
+      "id": 11,
+      "idCategoria": 1,
+      "titulo": "Blasphemous",
+      "categoria": "Accion",
+      "sistemas": ["Windows", "MacOS"],
+      "img": "./img/blasphemous_front.jpg",
+      "precio": 5500
+   },
+   {
+      "id": 12,
+      "idCategoria": 5,
+      "titulo": "Dragon Ball FighterZ",
+      "categoria": "Pelea",
+      "sistemas": "Windows",
+      "img": "./img/db-fighterz_front.jpg",
+      "precio": 20000
+   },
+   {
+      "id": 13,
+      "idCategoria": 4,
+      "titulo": "Elder Scrolls V: Skyrim",
+      "categoria": "Rol",
+      "sistemas": "Windows",
+      "img": "./img/skyrim_front.jpg",
+      "precio": 15000
+   },
+   {
+      "id": 14,
+      "idCategoria": 5,
+      "titulo": "Gang Beasts",
+      "categoria": "Pelea",
+      "sistemas": ["Windows", "MacOS"],
+      "img": "./img/gang-beasts_front.jpg",
+      "precio": 2250
+   },
+   {
+      "id": 15,
+      "idCategoria": 3,
+      "titulo": "Forza Horizon 4",
+      "categoria": "Deporte",
+      "sistemas": "Windows",
+      "img": "./img/forza-horizon-4_front.jpg",
+      "precio": 36000
+   }
+]

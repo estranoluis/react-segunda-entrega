@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Form = ({busquedaPlaceholder}) => {
+const SearchBar = ({busquedaPlaceholder}) => {
    return (
       <>
          <form className='d-flex'>
@@ -11,4 +11,4 @@ const Form = ({busquedaPlaceholder}) => {
    );
 }
 
-export default Form;
+export default SearchBar;
